@@ -45,3 +45,5 @@ modalContent.addEventListener('mouseover', () => {
 modalContent.addEventListener('mouseout', () => {
     modalContent.style.animation = 'none';
 });
+
+
